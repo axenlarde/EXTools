@@ -7,12 +7,12 @@
 <lookandfeel>com.sun.java.swing.plaf.windows.WindowsLookAndFeel</lookandfeel>
 <maclogunique>1234567890EF</maclogunique>
 <useridlogunique>testex</useridlogunique>
-<ipccm>172.21.1.1</ipccm>
-<loginccm>ccmadministrator</loginccm>
-<passccm>CCMCisco92</passccm>
+<ipccm>X.X.X.X</ipccm>
+<loginccm>xxxxxxx</loginccm>
+<passccm>xxxxxx</passccm>
 <requesttypeccm>HTTPS</requesttypeccm>
 <profilelogunique></profilelogunique>
-<axlloginccm>ccmadministrator</axlloginccm>
-<axlpassccm>CCMCisco92</axlpassccm>
+<axlloginccm>xxxxxx</axlloginccm>
+<axlpassccm>xxxxxx</axlpassccm>
 </config>
 </xml>
